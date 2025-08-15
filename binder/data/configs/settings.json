@@ -1,0 +1,30 @@
+{
+    "data": {
+        "user_gid": 1,
+        "button_style": {
+            "size": [
+                153,
+                33
+            ]
+        },
+        "visible_buttons": [
+            "dimension_sync",
+            "car_sync",
+            "uncuff",
+            "reof"
+        ],
+        "default_reasons": {
+            "uncuff": "Поблизости никого нет",
+            "force_rename": "2.7 правил проекта",
+            "mute_report": "Флуд"
+        },
+        "auto_send": {
+            "reports": true,
+            "violations": true,
+            "teleports": true,
+            "commands": true
+        },
+        "show_update_info": false
+    },
+    "version": 1
+}
